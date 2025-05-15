@@ -31,6 +31,7 @@ El objetivo es facilitar el aprendizaje y consulta rápida de conceptos claves o
 
 - HTML5
 - CSS3
+- Git (control de versiones)
 
 ## Posibles mejoras
 
