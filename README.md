@@ -1,9 +1,6 @@
 # Glosario_3147235
 actividad en clase html y css 
 
-# Glosario_3147235_M
-actividad en clase 
-
 # Glosario de Términos Tecnológicos
 
 Este proyecto contiene una serie de glosarios desarrollados en HTML y CSS que presentan definiciones de términos relacionados con informática, programación y tecnología en general. 
